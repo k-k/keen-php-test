@@ -1,0 +1,11 @@
+{
+    "require": {
+		"keen-io/keen-io":	"dev-issue-23"
+    },
+	"repositories": [
+		{
+			"type":	"vcs",
+			"url":	"https://github.com/kmfk/KeenClient-PHP.git"
+		}
+	]
+}
